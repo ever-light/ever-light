@@ -14,7 +14,11 @@
 - I long for the freedom of the wind and yearn for the vastness of the sea. May we all find our own paths
 - It is not the destination where you end up, but the mishaps and memories you create along the way
 
-<div style="height: 230px;"> </div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ### 🛠 Language and tools
 
