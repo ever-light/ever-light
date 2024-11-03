@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ever-light&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img scr="https://raw.githubusercontent.com/ever-light/ever-light/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+[![snake](https://raw.githubusercontent.com/ever-light/ever-light/refs/heads/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/ever-light/ever-light/refs/heads/output/github-contribution-grid-snake.svg)
 
 [![ever-light's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ever-light&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
